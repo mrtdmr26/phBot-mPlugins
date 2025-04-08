@@ -28,6 +28,7 @@ reflect_timers = {
     0x9D: 16.0,  # Beginner
     0x9F: 21.0,  # Intermediate-R
     0xA4: 21.0,  # Intermediate
+    0xA5: 26.0,  # Advanced-R
     0xAB: 26.0   # Advanced
 }
 # Başlangıçta, varsayılan değerleri de içerecek şekilde reflect_values kümesini oluşturuyoruz.
